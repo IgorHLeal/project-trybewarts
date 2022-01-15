@@ -1,4 +1,4 @@
-Esse projeto está desenvolvido utilizando HTML, CSS e JavaScript. Todos os 21 requisitos totais já foram concluídos.
+Esse projeto foi desenvolvido utilizando HTML, CSS e JavaScript. Todos os 21 requisitos totais foram concluídos.
 
 Neste projeto, as habilidades avaliadas foram:
 
